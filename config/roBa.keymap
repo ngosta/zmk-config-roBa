@@ -111,10 +111,10 @@
 
         NUM {
             bindings = <
-&kp NUMBER_1      &kp NUMBER_2     &kp NUMBER_3     &kp NUMBER_4  &kp NUMBER_5                                          &kp CARET        &kp MINUS        &kp EQUAL         &kp INTERNATIONAL_3  &kp BACKSPACE
-&kp NUMBER_6      &kp N7           &kp NUMBER_8     &kp NUMBER_9  &kp NUMBER_0  &kp LC(LA(KP_NUMBER_0))      &kp MINUS  &kp EXCLAMATION  &kp AT_SIGN      &kp LEFT_BRACKET  &kp RIGHT_BRACKET    &kp BACKSLASH
-&kp LEFT_SHIFT    &kp KP_NUMBER_1  &kp KP_NUMBER_2  &kp LG(C)     &kp LG(V)     &kp EQUAL                    &trans     &kp LEFT_BRACE   &kp RIGHT_BRACE  &kp SEMICOLON     &kp APOS             &kp SLASH
-&kp LEFT_CONTROL  &kp LEFT_GUI     &kp LEFT_ALT     &trans        &trans        &trans                       &trans     &trans                                                                   &kp INTERNATIONAL_1
+&kp NUMBER_1      &kp NUMBER_2  &kp NUMBER_3     &kp NUMBER_4  &kp NUMBER_5                                          &kp CARET        &kp MINUS        &kp EQUAL         &kp INTERNATIONAL_3  &kp BACKSPACE
+&kp NUMBER_6      &kp N7        &kp NUMBER_8     &kp NUMBER_9  &kp NUMBER_0  &kp LC(LA(KP_NUMBER_0))      &kp MINUS  &kp EXCLAMATION  &kp AT_SIGN      &kp LEFT_BRACKET  &kp RIGHT_BRACKET    &kp BACKSLASH
+&kp LEFT_SHIFT    &kp LG(Z)     &kp KP_NUMBER_2  &kp LG(C)     &kp LG(V)     &kp EQUAL                    &trans     &kp LEFT_BRACE   &kp RIGHT_BRACE  &kp SEMICOLON     &kp APOS             &kp SLASH
+&kp LEFT_CONTROL  &kp LEFT_GUI  &kp LEFT_ALT     &trans        &trans        &trans                       &trans     &trans                                                                   &kp INTERNATIONAL_1
             >;
         };
 
